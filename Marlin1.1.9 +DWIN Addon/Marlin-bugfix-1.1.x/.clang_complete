@@ -1,0 +1,27 @@
+-IZ:/Marlin1.1.9_Clean/Marlin-bugfix-1.1.x/Marlin
+-IC:/Users/Tomas/.platformio/packages/framework-arduinoavr/libraries/__cores__/arduino/SoftwareSerial/src
+-IZ:/Marlin1.1.9_Clean/Marlin-bugfix-1.1.x/.piolibdeps/megaatmega2560/c1921b4
+-IZ:/Marlin1.1.9_Clean/Marlin-bugfix-1.1.x/.piolibdeps/megaatmega2560/Arduino-L6470/src
+-IZ:/Marlin1.1.9_Clean/Marlin-bugfix-1.1.x/.piolibdeps/megaatmega2560/30aa480
+-IZ:/Marlin1.1.9_Clean/Marlin-bugfix-1.1.x/.piolibdeps/megaatmega2560/Adafruit NeoPixel_ID28
+-IZ:/Marlin1.1.9_Clean/Marlin-bugfix-1.1.x/.piolibdeps/megaatmega2560/TMC2208Stepper/src
+-IZ:/Marlin1.1.9_Clean/Marlin-bugfix-1.1.x/.piolibdeps/megaatmega2560/TMC2130Stepper_ID1493/src
+-IZ:/Marlin1.1.9_Clean/Marlin-bugfix-1.1.x/.piolibdeps/megaatmega2560/LiquidCrystal_I2C_ID576
+-IZ:/Marlin1.1.9_Clean/Marlin-bugfix-1.1.x/.piolibdeps/megaatmega2560/U8glib-HAL_ID1932/src
+-IC:/Users/Tomas/.platformio/packages/framework-arduinoavr/libraries/__cores__/arduino/Wire/src
+-IC:/Users/Tomas/.platformio/packages/framework-arduinoavr/libraries/__cores__/arduino/SPI/src
+-IC:/Users/Tomas/.platformio/packages/framework-arduinoavr/cores/arduino
+-IC:/Users/Tomas/.platformio/packages/framework-arduinoavr/variants/mega
+-IC:/Users/Tomas/.platformio/packages/framework-arduinoavr/libraries/__cores__/arduino/EEPROM/src
+-IC:/Users/Tomas/.platformio/packages/framework-arduinoavr/libraries/__cores__/arduino/HID/src
+-IC:/Users/Tomas/.platformio/packages/toolchain-atmelavr/avr/include
+-IC:/Users/Tomas/.platformio/packages/toolchain-atmelavr/lib/gcc/avr/5.4.0/include
+-IC:/Users/Tomas/.platformio/packages/toolchain-atmelavr/lib/gcc/avr/5.4.0/include-fixed
+-IC:/Users/Tomas/.platformio/packages/tool-unity
+-IZ:/Marlin1.1.9_Clean/Marlin-bugfix-1.1.x/include
+-DPLATFORMIO=40003
+-DARDUINO_AVR_MEGA2560
+-DF_CPU=16000000L
+-DARDUINO_ARCH_AVR
+-DARDUINO=10805
+-D__AVR_ATmega2560__

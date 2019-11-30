@@ -69,6 +69,9 @@ Video tutorial : [YouTube PC-maniak](http://pc-maniak.eu/vscodeplatf).
 Video tutorial : [YouTube DWIN TUT](http://pc-maniak.eu/dwintut).
 
 0) ! Optional edit DWIN_SET with [DGUS Tools](http://pc-maniak.eu/DGUS_V7383.zip)
+```diff
+- if you make a change and generate a new DWIN_SET you must run FIX NAME.BAT !!
+```
 1) Copy DWIN_SET to root of SD card
 2) Put sd card into lcd! sd card slot
 3) Turn ON Power and wait until on LCD show END process
@@ -77,7 +80,7 @@ Video tutorial : [YouTube DWIN TUT](http://pc-maniak.eu/dwintut).
 ```diff
 ++++++++++++++++++++++++++++++++++++++++++++++++++++++
 ```
-- DWIN Display HW :
+- DWIN Display HW (only for use on printers other than the CR10S Pro):
 ```diff
 - if communication is not working .. change the RX and TX position
 - it must be connected to UART2 on the printer board
