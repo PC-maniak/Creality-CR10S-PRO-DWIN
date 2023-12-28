@@ -1,5 +1,8 @@
 # Creality CR10S PRO ( and others Marlin FW compatible 3D printers )
 ```diff
+- ATTENTION! This is already a very old version .. I don't have as much time as I would like for this project .. so I don't recommend using this project .. use them at your own risk!
+```
+```diff
 - Hey! This code is still a Work in Progress! Files, instructions, and other stuff might change!
 ```
 ```diff
